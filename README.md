@@ -2,7 +2,7 @@
 ## Overview
 Kate wants to implement a bikesharing business in Des Moines, Iowa. In order to get the potential angel investor on board, I used citibike data from New York City to build a Tablaue Story for Kate to present to the investor. 
 
-## results
+## Results
 In order to show the investor that this is a good idea, I used data from August 2019 becuase summer is a very popular time for the bikes. The dataset was large and had a lot of information ready to use. Below are the visualization I built for Kate's presention.
 
 ### Peak Hours
@@ -45,3 +45,6 @@ In this heatmap, we can see that most of the subscribers versus one time users a
 
 ## Summary
 Based on the visualizations above, we can see that a bikesharing system is cost effective for the users and a huge potenatial business opportunity. As the rides may be cheap, the large number of consutomers will generate a hefty profit as well as allow people more access to an envirnmenally freindly and healthy form of transportation. Other visualizations I would have made is a breakdown of checkout times by User Type as well as seeing the gender breakdown with in those user types to determine how long our subscribers are using the bikes versus one time riders and if there is a way to draw in more female or male subscribers.
+
+Use the link below to view the Tableau story:
+[Tableau Story](https://public.tableau.com/app/profile/rachel.ward1827/viz/NYCCitiBike_16531454417470/NYCStory?publish=yes)
